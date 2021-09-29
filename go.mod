@@ -1,3 +1,3 @@
-module github.com/mritd/chinaid
+module github.com/keyonchi/chinaid
 
 go 1.16
